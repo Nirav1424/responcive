@@ -23,13 +23,13 @@ function Navbar() {
             <div className="collapse navbar-collapse justify-content-end text-center" id="navbarSupportedContent">
               <ul className="navbar-nav ml-auto mb-2 mb-lg-0 ">
                 <li className="nav-item">
-                  <a className="nav-link active" aria-current="page" href='#' >
+                  <a className="nav-link active" aria-current="page" href='/home' >
                     Home
                   </a>
                 </li>
                
                 <li className="nav-item">
-                  <a className="nav-link" aria-current="page" >
+                  <a className="nav-link" aria-current="page" href='/about'>
                     About
                   </a>
                 </li>

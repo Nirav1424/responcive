@@ -48,3 +48,8 @@
     font-size: 9rem!important;
   } */
 }
+
+.card img {
+  max-width: 50%;
+  min-height: 140px;
+}
