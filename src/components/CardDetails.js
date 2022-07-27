@@ -17,7 +17,7 @@ const array = [
   },
   {
     id: '2',
-    image: img2,
+    image: img,
     title: 'Jay',
     discription: "  This is a longer card with supporting text below as a natural lead-into additional content. This content is a little bit longer.",
     hstar: 'star-half-stroke',
