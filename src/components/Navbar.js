@@ -23,24 +23,24 @@ function Navbar() {
             <div className="collapse navbar-collapse justify-content-end text-center" id="navbarSupportedContent">
               <ul className="navbar-nav ml-auto mb-2 mb-lg-0 ">
                 <li className="nav-item">
-                  <a className="nav-link active" aria-current="page" href='/home' >
+                  <a className="nav-link active" aria-current="page"  href='/#'>
                     Home
                   </a>
                 </li>
                
                 <li className="nav-item">
-                  <a className="nav-link" aria-current="page" href='/about'>
+                  <a className="nav-link" aria-current="page" href='/#'>
                     About
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" aria-current="page" >
+                  <a className="nav-link" aria-current="page" href='/#' >
                     Gallry
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link"  aria-current="page" >
-                    Contect Us
+                  <a className="nav-link"  aria-current="page" href=' https://nirav1424.github.io/login/' >
+                    Login
                   </a>
                 </li>
                

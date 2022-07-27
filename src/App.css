@@ -8,6 +8,12 @@
   
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&display=swap');
+
+body{
+  font-family: 'Dancing Script';
+}
+
 @media (min-width: 950.98px) {
   .carousel-item img {
     width: 100%;
@@ -51,5 +57,5 @@
 
 .card img {
   max-width: 50%;
-  min-height: 140px;
+  min-height: 35%;
 }
